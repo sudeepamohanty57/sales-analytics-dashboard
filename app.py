@@ -90,7 +90,7 @@ with col1:
         title="Sales by Category"
     )
 
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 with col2:
     region_sales = (
@@ -107,7 +107,7 @@ with col2:
         hole=0.4
     )
 
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 st.divider()
 
@@ -134,7 +134,7 @@ fig = px.line(
     title="Monthly Sales"
 )
 
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
 
 st.divider()
 
@@ -167,7 +167,7 @@ fig.update_layout(
     }
 )
 
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
 
 st.divider()
 
@@ -187,7 +187,7 @@ fig = px.scatter(
     title="Sales vs Profit Analysis"
 )
 
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
 
 st.divider()
 
@@ -213,7 +213,7 @@ fig = px.bar(
     title="Top States by Sales"
 )
 
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
 
 st.divider()
 
@@ -223,7 +223,7 @@ st.divider()
 
 st.subheader("📄 Filtered Dataset")
 
-st.dataframe(filtered_df, use_container_width=True)
+st.dataframe(filtered_df, width="stretch")
 
 st.divider()
 
