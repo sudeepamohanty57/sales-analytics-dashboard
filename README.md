@@ -6,7 +6,7 @@ An interactive Sales Analytics Dashboard built with **Python, Streamlit, Pandas,
 
 ## 🚀 Live Demo
 
-Coming Soon (Streamlit Cloud)
+👉 **[Open the Live Dashboard](https://sales-analytics-dashboard-aedf48ldsbaieusorzkbz6.streamlit.app/)**
 
 ---
 
@@ -36,6 +36,17 @@ Coming Soon (Streamlit Cloud)
 - Pandas
 - Plotly Express
 - NumPy
+
+---
+## 🚀 Skills Demonstrated
+
+- Data Analysis
+- Business Intelligence
+- Data Visualization
+- Dashboard Development
+- Python Programming
+- Git & GitHub
+- Streamlit Deployment
 
 ---
 
@@ -107,7 +118,7 @@ streamlit run app.py
 
 ## 📊 Dataset
 
-Sample Superstore Dataset
+The dashboard uses the **Sample Superstore** dataset, which contains retail sales records including orders, customers, products, regions, sales, discounts, and profit. It is widely used for business intelligence and data visualization projects.
 
 ---
 
@@ -115,9 +126,8 @@ Sample Superstore Dataset
 
 **Sudeepa Mohanty**
 
-GitHub:
-https://github.com/sudeepamohanty57
-
+GitHub: https://github.com/sudeepamohanty57
+LinkedIn: https://www.linkedin.com/in/sudeepa-mohanty-a808293b6/
 ---
 
 ## ⭐ If you like this project, consider giving it a star!
