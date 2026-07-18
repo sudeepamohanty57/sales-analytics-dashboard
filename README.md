@@ -12,7 +12,14 @@ An interactive Sales Analytics Dashboard built with **Python, Streamlit, Pandas,
 
 ## 📸 Dashboard Preview
 
-(Add screenshots here after deployment)
+### Dashboard Overview
+![Dashboard Overview](images/dashboard_overview.png)
+
+### Sales Analysis
+![Sales Analysis](images/sales_analysis.png)
+
+### Monthly Sales Trends
+![Monthly Sales Trends](images/trends.png)
 
 ---
 
