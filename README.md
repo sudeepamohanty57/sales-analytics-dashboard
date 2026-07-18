@@ -126,11 +126,9 @@ The dashboard uses the **Sample Superstore** dataset, which contains retail sale
 
 **Sudeepa Mohanty**
 
-GitHub: 
-https://github.com/sudeepamohanty57
+GitHub: https://github.com/sudeepamohanty57
 
-LinkedIn: 
-https://www.linkedin.com/in/sudeepa-mohanty-a808293b6/
+LinkedIn: https://www.linkedin.com/in/sudeepa-mohanty-a808293b6/
 ---
 
 ## ⭐ If you like this project, consider giving it a star!
