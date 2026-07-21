@@ -13,12 +13,15 @@ An interactive Sales Analytics Dashboard built with **Python, Streamlit, Pandas,
 ## 📸 Dashboard Preview
 
 ### Dashboard Overview
+
 ![Dashboard Overview](images/dashboard_overview.png)
 
 ### Sales Analysis
+
 ![Sales Analysis](images/sales_analysis.png)
 
 ### Monthly Sales Trends
+
 ![Monthly Sales Trends](images/trends.png)
 
 ---
@@ -45,6 +48,7 @@ An interactive Sales Analytics Dashboard built with **Python, Streamlit, Pandas,
 - NumPy
 
 ---
+
 ## 🚀 Skills Demonstrated
 
 - Data Analysis
@@ -59,13 +63,18 @@ An interactive Sales Analytics Dashboard built with **Python, Streamlit, Pandas,
 
 ## 📂 Project Structure
 
-```
+```text
 sales-analytics-dashboard
 │
 ├── app.py
 ├── requirements.txt
 ├── README.md
 ├── LICENSE
+│
+├── images/
+│   ├── dashboard_overview.png
+│   ├── sales_analysis.png
+│   └── trends.png
 │
 ├── data/
 │   └── Superstore/
@@ -74,48 +83,48 @@ sales-analytics-dashboard
 ├── notebooks/
 │   └── analysis.py
 │
-├── utils/
-│   ├── load_data.py
-│   └── charts.py
+└── utils/
+    ├── load_data.py
+    └── charts.py
 ```
 
 ---
 
 ## ⚙️ Installation
 
-Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/sudeepamohanty57/sales-analytics-dashboard.git
 ```
 
-Go inside the folder
+### 2. Go inside the project folder
 
 ```bash
 cd sales-analytics-dashboard
 ```
 
-Create virtual environment
+### 3. Create a virtual environment
 
 ```bash
 python -m venv venv
 ```
 
-Activate virtual environment
+### 4. Activate the virtual environment
 
-Windows
+**Windows:**
 
 ```bash
 venv\Scripts\activate
 ```
 
-Install dependencies
+### 5. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the dashboard
+### 6. Run the dashboard
 
 ```bash
 streamlit run app.py
@@ -125,7 +134,7 @@ streamlit run app.py
 
 ## 📊 Dataset
 
-The dashboard uses the **Sample Superstore** dataset, which contains retail sales records including orders, customers, products, regions, sales, discounts, and profit. It is widely used for business intelligence and data visualization projects.
+The dashboard uses the **Sample Superstore** dataset, which contains retail sales records including orders, customers, products, regions, sales, discounts, and profit.
 
 ---
 
@@ -133,9 +142,11 @@ The dashboard uses the **Sample Superstore** dataset, which contains retail sale
 
 **Sudeepa Mohanty**
 
-GitHub: https://github.com/sudeepamohanty57
+- GitHub: https://github.com/sudeepamohanty57
+- LinkedIn: https://www.linkedin.com/in/sudeepa-mohanty-a808293b6/
 
-LinkedIn: https://www.linkedin.com/in/sudeepa-mohanty-a808293b6/
 ---
 
-## ⭐ If you like this project, consider giving it a star!
+## ⭐ Support
+
+If you like this project, consider giving the repository a ⭐ on GitHub!
